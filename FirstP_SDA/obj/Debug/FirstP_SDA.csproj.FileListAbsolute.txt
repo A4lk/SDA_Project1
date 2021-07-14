@@ -1,0 +1,6 @@
+C:\Users\azooz\source\repos\FirstP_SDA\FirstP_SDA\bin\Debug\FirstP_SDA.exe.config
+C:\Users\azooz\source\repos\FirstP_SDA\FirstP_SDA\bin\Debug\FirstP_SDA.exe
+C:\Users\azooz\source\repos\FirstP_SDA\FirstP_SDA\bin\Debug\FirstP_SDA.pdb
+C:\Users\azooz\source\repos\FirstP_SDA\FirstP_SDA\obj\Debug\FirstP_SDA.csprojAssemblyReference.cache
+C:\Users\azooz\source\repos\FirstP_SDA\FirstP_SDA\obj\Debug\FirstP_SDA.exe
+C:\Users\azooz\source\repos\FirstP_SDA\FirstP_SDA\obj\Debug\FirstP_SDA.pdb
